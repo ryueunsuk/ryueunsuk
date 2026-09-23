@@ -1,3 +1,20 @@
+<!-- =========================================================
+     GitHub Profile README
+     Theme : Python × MLOps × Learning in Public
+========================================================= -->
+
+<div align="center">
+
+# 👾 Hi, I'm Building Myself.
+
+### `Python` × `Machine Learning` × `MLOps`
+
+**Learn → Build → Break → Debug → Improve → Ship**
+
+
+
+
+
 ```markdown
 # 👋 Hello, I'm Ryu
 
